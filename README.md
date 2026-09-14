@@ -30,8 +30,9 @@
     if __time >= 60 {
       //Change to next state.
       STATES.change("exit"); 
+    } else {
+      __time += 1 / 60;
     }
-    __time += 1 / 60;
   );
 
   //Set the LEAVE state for "count".
