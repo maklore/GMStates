@@ -28,7 +28,7 @@
     static __time = 0;
     show_debug_message(_time);
     if __time >= 60 {
-      //Change to next state once __time reaches 60 (1 minute).
+      //Change to next state once __time reaches 60.
       STATES.change("exit"); 
     } else {
       __time += 1 / 60;
