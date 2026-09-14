@@ -5,7 +5,7 @@
 - Create a script in GameMaker.
 - Copy code from [GMStates.gml](https://github.com/maklore/GMStates/blob/main/GMStates.gml) and paste to script.
   
-  > Only examples on how you can use it, please don't use the actual examples.
+  > An example on how you can use it, please don't use the actual examples.
 - Create an object.
 - Initialise the state system in objects `Create` event.
   ```gml
