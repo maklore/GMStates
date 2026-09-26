@@ -1,7 +1,7 @@
 <h1 align="center">GMStates</h1>
 <h4 align="center">A simple state machine for GameMaker.</h4>
 
-> Based on Mimpy's struct base state machine [guide](https://gm48.net/resource/28/state-machines-the-struct-based-approach).
+> Based on Mimpy's struct based state machine [guide](https://gm48.net/resource/28/state-machines-the-struct-based-approach).
 
 ## Basic setup
 - Create a script in GameMaker.
